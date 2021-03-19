@@ -4,7 +4,7 @@
    <test name = "OECC Tests">
       <classes>
       	 
-         <class name = "calci.TestClass1"/>
+         <class name = "calci.TestClass2"/>
   		 
 
       </classes>
