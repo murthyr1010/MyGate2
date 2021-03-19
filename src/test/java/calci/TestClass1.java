@@ -6,13 +6,13 @@ import org.testng.annotations.Test;
 public class TestClass1 {
 	
 	@Test
-	public void test1()
+	public void testCalc1()
 	{
 		Assert.assertEquals(2+3, 5);
 	}
 	
 	@Test
-	public void test12()
+	public void testcal2()
 	{
 		Assert.assertEquals(5+8, 13);
 	}
