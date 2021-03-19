@@ -3,7 +3,7 @@ package calci;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
-public class TestClass1 {
+public class TestClass2 {
 	
 	@Test
 	public void testCalc1()
