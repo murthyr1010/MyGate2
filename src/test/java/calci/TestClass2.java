@@ -16,5 +16,15 @@ public class TestClass2 {
 	{
 		Assert.assertEquals(5+8, 13);
 	}
+	@Test
+	public void testcal3()
+	{
+		Assert.assertEquals(5+2, 13);
+	}
+	@Test
+	public void testcal3()
+	{
+		Assert.assertEquals(7-3, 13);
+	}
 
 }
