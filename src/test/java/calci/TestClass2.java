@@ -22,7 +22,7 @@ public class TestClass2 {
 		Assert.assertEquals(5+2, 13);
 	}
 	@Test
-	public void testcal3()
+	public void testcal4()
 	{
 		Assert.assertEquals(7-3, 13);
 	}
