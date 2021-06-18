@@ -31,5 +31,10 @@ public class TestClass2 {
 	{
 		Assert.assertEquals(7+3, 10);
 	}
+	@Test
+	public void testcal6()
+	{
+		Assert.assertEquals(7+3, 11);
+	}
 
 }
