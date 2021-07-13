@@ -86,29 +86,29 @@ public class TestClass2 {
 	}
 	
 	@Test
-	public void testcal24()
+	public void testcal25()
 	{
 		Assert.assertEquals(7+3, 10);
 	}
 	
 	@Test
-	public void testcal24()
+	public void testcal26()
 	{
 		Assert.assertEquals(7+3, 12);
 	}
 	@Test
-	public void testcal24()
+	public void testcal27()
 	{
 		Assert.assertEquals(7+3, 12);
 	}
 	@Test
-	public void testcal24()
+	public void testcal28()
 	{
 		Assert.assertEquals(7+3, 12);
 	}
 	
 	@Test
-	public void testcal24()
+	public void testcal29()
 	{
 		Assert.assertEquals(7+3, 12);
 	}
