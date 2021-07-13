@@ -29,7 +29,7 @@ public class TestClass2 {
 	@Test
 	public void testcal5()
 	{
-		Assert.assertEquals(7+3, 10);
+		Assert.assertEquals(7+3, 12);
 	}
 	@Test
 	public void testcal6()
@@ -63,7 +63,7 @@ public class TestClass2 {
 	@Test
 	public void testcal21()
 	{
-		Assert.assertEquals(7+3, 10);
+		Assert.assertEquals(7+3, 110);
 	}
 	
 }
